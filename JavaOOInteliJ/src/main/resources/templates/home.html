@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="https://www.thymeleaf.org">
+<head>
+  <title>Página Inicial do Controle de Estoque</title>
+  <link rel="stylesheet" type="text/css" href="css/estoque.css" />
+</head>
+<body>
+<div class="container">
+  <h1 class="titulo">Controle de Estoque</h1>
+  <p class="descricao">Bem-vindo ao sistema de controle de estoque. Selecione uma opção abaixo:</p>
+  <ul class="opcoes">
+    <li><a th:href="@{/consulta}">Consultar Produto</a></li>
+    <li><a th:href="@{/cadastro}">Cadastrar Produto</a></li>
+    <li><a th:href="@{/saida}">Registrar Saída de Produto</a></li>
+    <li><a th:href="@{/entrada}">Registrar Entrada de Produto</a></li>
+  </ul>
+</div>
+</body>
+</html>

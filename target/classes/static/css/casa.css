@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+    font-size: 2.5em;
+    text-align: center; /* Centraliza o conteúdo */
+    padding-top: 50px; /* Adiciona um espaçamento superior */
+    color: #333; /* Define a cor do texto */
+}
+
+.base {
+    color: yellow;
+}

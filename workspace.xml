@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6c26a49-1f20-45be-a3b1-2a6c5fcad751" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/cadastro.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/cadastro.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/casa.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/casa.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/saudacao.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/saudacao.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/cadastro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/consulta.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/consulta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ge1NYwmdeH2Tc9kc6e83xFROp1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ProjetoWEB.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gabri/IdeaProjects/JavaOOInteliJ",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ProjetoWEB" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="faculdade.login.ProjetoWEB" />
+      <module name="JavaOOInteliJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="faculdade.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6c26a49-1f20-45be-a3b1-2a6c5fcad751" name="Changes" comment="" />
+      <created>1716043190059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716043190059</updated>
+    </task>
+    <servers />
+  </component>
+</project>

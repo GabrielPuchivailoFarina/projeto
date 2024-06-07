@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="https://www.thymeleaf.org" xmlns:sec="https://www.thymeleaf.org/thymeleaf-extras-springsecurity6">
+<head>
+    <title>Página de Saudação</title>
+    <link rel="stylesheet" type="text/css" href="css/saudacao.css"/>
+    <style>
+        body {
+            background-color: lightblue;
+            text-align: center;
+            padding-top: 50px;
+        }
+        h1 {
+            font-size: 2em;
+            color: #333;
+        }
+        .base {
+            color: #0066cc;
+        }
+        form {
+            margin-top: 20px;
+        }
+        input[type="submit"] {
+            background-color: #0066cc;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        input[type="submit"]:hover {
+            background-color: #004080;
+        }
+    </style>
+</head>
+<body>
+<h1 class="base" th:inline="text">Olá Mundo! <span th:remove="tag" sec:authentication="name">Biblioteca - Thymeleaf</span></h1>
+<h2>Bem-vindo, <span th:text="${nomeCasa}"></span></h2>
+<form th:action="@{/logout}" method="post">
+    <input type="submit" value="Sair"/>
+</form>
+<a href="/" style="text-decoration: none; color: #0066cc;">Voltar à página inicial</a>
+</body>
+</html>

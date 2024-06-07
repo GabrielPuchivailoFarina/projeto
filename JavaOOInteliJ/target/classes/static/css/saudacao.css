@@ -1,0 +1,11 @@
+body {
+    background-color: lightgreen;
+    font-family: Arial, sans-serif; /* Escolha de uma fonte mais legível */
+    padding: 2em; /* Adicionando espaço interno para o conteúdo */
+}
+
+.base {
+    color: darkgreen; /* Alteração para uma tonalidade mais escura de verde */
+    font-size: 1.2em; /* Tamanho de fonte um pouco menor para melhor legibilidade */
+    font-weight: bold; /* Adicionando negrito para enfatizar o texto */
+}

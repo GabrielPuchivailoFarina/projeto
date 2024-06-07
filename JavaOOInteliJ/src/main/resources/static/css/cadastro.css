@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue; /* Cor de fundo alterada para lightblue */
+    width: 70%;
+    margin: 5% auto; /* Centraliza vertical e horizontalmente */
+    text-align: center;
+    padding-top: 5em;
+    font-size: 1.5em; /* Reduzindo o tamanho da fonte para uma melhor legibilidade */
+    line-height: 1.6; /* Espaçamento entre linhas aumentado para melhor legibilidade */
+    font-family: Arial, sans-serif; /* Escolha de uma fonte mais padrão */
+    color: navy; /* Cor do texto alterada para navy */
